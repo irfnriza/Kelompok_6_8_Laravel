@@ -157,7 +157,7 @@ http://127.0.0.1:8000
 | Mizana Amaliya      | 240610302022150012 |
 | Irfan Rizadi      | 2208107010082 |
 | Al Mahfuzh Fadhlur Rohman      | 22081070100816 |
-| Shidqi Rabbani      | 2208107010082 |
+| Shidqi Rabbani      | 1908107010055 |
 | Muhammad Teguh Aulia      | 2208107010082 |
 
 ## Acknowledgements
