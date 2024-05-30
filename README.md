@@ -154,7 +154,7 @@ http://127.0.0.1:8000
 | ⁠Berliani Utami       | 2208107010082 |
 | Raihan Firyal          | 2208107010084 |
 | Riska Haqiqa Situmorang      | 2208107010086 |
-| Mizana Amaliya      | 2208107010082 |
+| Mizana Amaliya      | 240610302022150012 |
 | Irfan Rizadi      | 2208107010082 |
 | Al Mahfuzh Fadhlur Rohman      | 22081070100816 |
 | Shidqi Rabbani      | 2208107010082 |
