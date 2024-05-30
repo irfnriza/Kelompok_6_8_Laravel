@@ -35,7 +35,7 @@ Both projects have been refactored to follow the MVC design pattern. The refacto
 2. Clone the Repository:
 
 ```bash copy
-  ganti link github klian
+  [ganti link github klian](https://github.com/irfnriza/Kelompok_6_8_Laravel.git)
 ```
 
 3. Import the Database:
